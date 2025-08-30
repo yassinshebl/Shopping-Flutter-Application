@@ -1,0 +1,20 @@
+{
+  "@@locale": "ar",
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "signUp": "إنشاء حساب",
+  "signIn": "تسجيل الدخول",
+  "welcome": "مرحبا",
+  "accountCreated": "تم إنشاء الحساب بنجاح",
+  "accountSignedIn": "تم تسجيل الدخول بنجاح",
+  "close": "إغلاق"
+
+  ,
+  "requiredField": "مطلوب",
+  "firstLetterUppercase": "يجب أن يكون الحرف الأول كبيرًا",
+  "emailValidation": "يجب أن يحتوي على @",
+  "passwordValidation": "على الأقل 6 أحرف",
+  "passwordsMustMatch": "يجب أن تتطابق كلمتا المرور",
+  "accountAlreadyExists": "الحساب موجود بالفعل، يرجى تسجيل الدخول.",
+  "noAccountFound": "لم يتم العثور على حساب، يرجى التسجيل أولاً"
+}

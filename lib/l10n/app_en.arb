@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "welcome": "Welcome",
+  "accountCreated": "Account created successfully",
+  "accountSignedIn": "Account sign-in successfully",
+  "close": "Close"
+
+  ,
+  "requiredField": "Required",
+  "firstLetterUppercase": "First letter must be uppercase",
+  "emailValidation": "Must include @",
+  "passwordValidation": "At least 6 characters",
+  "passwordsMustMatch": "Passwords must match",
+  "accountAlreadyExists": "Account already exists, please sign in.",
+  "noAccountFound": "No account found, please Sign Up first"
+}
